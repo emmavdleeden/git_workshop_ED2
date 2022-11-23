@@ -17,4 +17,5 @@ public class Location {
 
 	// we doen tegelijk iets
 	//skjdhfksjhdf
+	//iets typen
 }
