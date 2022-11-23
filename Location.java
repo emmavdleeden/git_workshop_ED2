@@ -12,4 +12,5 @@ public class Location {
 		this.x = x;
 		this.y = y;
 	}
+	// iets toegevoegd
 }
