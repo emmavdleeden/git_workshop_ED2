@@ -13,4 +13,6 @@ public class Location {
 		this.y = y;
 	}
 	// iets toegevoegd
+
+	// we doen tegelijk iets
 }
