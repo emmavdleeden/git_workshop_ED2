@@ -13,4 +13,5 @@ public class Location {
 		this.y = y;
 	}
 	// iets toegevoegd
+	// iets aanpassen
 }
