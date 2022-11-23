@@ -14,4 +14,6 @@ public class Location {
 	}
 	// iets toegevoegd
 	// iets aanpassen
+
+	// we doen tegelijk iets
 }
